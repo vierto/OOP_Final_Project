@@ -207,9 +207,9 @@ public class Main {
 	}
 }
 
-// Aplikasi Ini Dibuat Oleh:
-// 1. Nicholas Mario Tanamas - 2301898512
-// 2. Arief Darvin - 2301853615
+// 	Aplikasi Ini Dibuat Oleh:
+// 	1. Nicholas Mario Tanamas - 2301898512
+// 	2. Arief Darvin - 2301853615
 //	3. Kelvinsent - 2301901356
 //	4. Vendly - 2301858345
 //	5. Silvia Candra - 2301873270
